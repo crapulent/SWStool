@@ -1,1 +1,0 @@
-GN=N1 =pattern> N2<c=N1.c>
