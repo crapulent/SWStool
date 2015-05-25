@@ -15,7 +15,7 @@ namespace TermRules
         }
         FindFunctions find;
         AuxiliaryFunctions aux;
-        TermsProcessing proc;
+        public TermsProcessing proc;
         public void Rule1_Mauth_to_M(Terms AuthTermsAr, Terms MainArrayTermsAr)
         {
 	        for (int i = 0; i < AuthTermsAr.TermsAr.Count; i++)
